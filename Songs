@@ -1,1 +1,27 @@
-
+{
+    "Albumes": [
+        {
+            "Album": "SendoBeta",
+            "IDImage": "rbxassetid://94110981389008",
+            "Official": true
+        }
+    ],
+    "Songs": [
+                    {
+            "Title": "Name",
+            "Artist": "Artist | Import: Drelhian",
+            "Album": "SendoBeta",
+            "ImageId": "",
+            "SoundId": "rbxassetid://0",
+            "Speed": 0.52
+        },
+                    {
+            "Title": "Name",
+            "Artist": "Artist | Import: Drelhian",
+            "Album": "SendoBeta",
+            "ImageId": "",
+            "SoundId": "rbxassetid://0",
+            "Speed": 0.52
+        }
+    ]
+}
